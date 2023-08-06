@@ -3,6 +3,7 @@
 RMIT student project: Epistasis text mining
 
 Student names:
+Saisiva (Siva) - RMIT_student_id: s3931923
 
 ## General overview
 
