@@ -5,6 +5,7 @@ RMIT student project: Epistasis text mining
 Student names:
 
 1. Saisiva (Siva) - RMIT_student_id: s3931923
+2. Ximing Tao - RMIT_student_id: s3880285
 
 ## General overview
 
