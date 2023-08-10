@@ -12,6 +12,7 @@ Student names:
 3. Kevin s3909614
 4. Abhinandan Chandrashekar - s3933850
 5. Michael Albany - s3922478
+6. Rahul Ramachandran - s3913195
 >>>>>>>
 ## General overview
 
