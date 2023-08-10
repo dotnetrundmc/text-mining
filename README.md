@@ -3,7 +3,15 @@
 RMIT student project: Epistasis text mining
 
 Student names:
-Abhinandan Chandrashekar - S3933850
+<<<<<<< HEAD
+
+=======
+
+1. Saisiva (Siva) - RMIT_student_id: s3931923
+2. Ximing Tao - RMIT_student_id: s3880285
+3. Kevin s3909614
+4. Abhinandan Chandrashekar - s3933850
+>>>>>>> eb8ce4c6f797fc89ee02f90bd817171a22d1981a
 ## General overview
 
 **Project title:**  
