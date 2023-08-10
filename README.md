@@ -3,7 +3,7 @@
 RMIT student project: Epistasis text mining
 
 Student names:
-
+Abhinandan Chandrashekar - S3933850
 ## General overview
 
 **Project title:**  
