@@ -1,6 +1,6 @@
 import cocoscore.ml.fasttext_helpers as fth
 import cocoscore.tools.data_tools as dt
-import os
+import oss
 
 import fasttext
 
