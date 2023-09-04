@@ -1,6 +1,6 @@
 **Required input:** `PMID` (pubmed_Id's)
 
-#Cocoscore demo model
+# Cocoscore demo model
 coco.py contains a few paths and points to a few files:
 - model_path. Model used for cocoscore. Model used here was found at: https://figshare.com/ndownloader/files/13252745. (~780MB)
 - This is the only file you (should need to download)
